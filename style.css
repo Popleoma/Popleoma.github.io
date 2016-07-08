@@ -4,6 +4,8 @@ body {
 		font-size: 150%;
 		font-family: 'Chewy', cursive;
 	}
+	p {Text-align:center;
+	}
 	
 	h1 {
 		Text-align: center;
