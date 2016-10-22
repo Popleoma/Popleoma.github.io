@@ -4,15 +4,13 @@ body {
 		font-size: 150%;
 		font-family: 'Chewy', cursive;
 	}
-	.Text {Text-align:center;
-	}
 	
 	h1 {
 		Text-align: center;
 		font-size: 200%;
 	}
 	
-	h2, h3, h4 { 
+	h2, h3, h4, { 
 	Text-align: center;
 	color:#F2FF00;
 	}
