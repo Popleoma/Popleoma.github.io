@@ -1,37 +1,4 @@
-body {
-	background-color: #1B83F2;
-		color:  #00FF11;
-		font-size: 150%;
-		font-family: 'Chewy', cursive;
-	}
-<link rel="icon" href="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fi1.ytimg.com%2Fsh%2FJ5rX3TsA1S8%2Fshowposter.jpg%3Fv%3D50a5567c&f=1">
-	
-	h1 {
-		Text-align: center;
-		font-size: 200%;
-	}
-	
-	h2, h3, h4, { 
-	Text-align: center;
-	color:#F2FF00;
-	}
-	img {
-			display: block;
-			margin:0 auto;
-			width: 50%;
-			height: auto;
-}
-h4{
-		color:#E8E800;
-}
-
-h1{
-	color:#FF002F;
-}
-iframe {
-		display: block;
-		margin:0 auto;
-}
-.Disclaimer{
-	color:#8400FF;
+body{
+	background:teal;
+	color:red;
 }
